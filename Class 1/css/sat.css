@@ -1,0 +1,27 @@
+*{ 
+    background-color: cyan;
+    color: black;font-family: Arial, Helvetica, sans-serif;
+    /* border: 2px solid red; */
+}
+
+h1{
+    background-color: aqua;
+    color: blue;font-size: 20px;
+    border: 2px solid aqua;
+}
+P{
+    background-color: brown;
+    color: darkblue;font-size: 15px;
+    border: 2px solid brown;
+    
+}
+UL{
+    background-color:blanchedalmond;
+    color: sienna;font-size: 15px;
+    border: 2px solid crimson;
+}
+.myheading{
+    background-color: brown;
+    color: coral;font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+     
